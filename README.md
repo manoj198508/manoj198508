@@ -1,7 +1,7 @@
 # Manoj Kumar
 
 **Current Role:**  
-PhD Student
+PhD Scholar
 
 **Educational Background:**  
 - MTech in Artificial Intelligence & Machine Learning, specialized in Natural Language Processing
@@ -11,6 +11,7 @@ PhD Student
 - Machine Learning (ML)
 - Large Language Models (LLM)
 - Domain-Specific Question Answering Systems
+- Programming Language - Python,JAVA,C++,HTML
 
 **Notable Projects:**  
 - **Domain Specific Question Answering System using LLM**  
